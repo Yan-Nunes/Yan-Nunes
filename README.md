@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://uploaddeimagens.com.br/imagens/UYdL8SA"  />
+  <img height="500" src="https://www.bing.com/th/id/OGC.8cc9e208ab9d543efc401b01db8bf83e?pid=1.7&rurl=https%3a%2f%2fgifs.eco.br%2fwp-content%2fuploads%2f2022%2f06%2fgifs-do-thomas-shelby-16.gif&ehk=Ql28i6NxRw9dNLF6i%2bi3Io8qxO3wLNWkWg9tXtd4ykM%3d"  />
 </div>
 
 ###
@@ -9,12 +9,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yan-nunes.yan-nunes&"  />
 </div>
 
 ###
@@ -69,6 +63,8 @@
 <h1 align="center"></h1>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/yan-nunes/yan-nunes/output/snake.svg" alt="Snake animation" />
 
