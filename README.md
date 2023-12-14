@@ -1,4 +1,4 @@
-<img align="left" height="300" src=""  />
+
 
 ###
 
